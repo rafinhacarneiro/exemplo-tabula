@@ -1,0 +1,6 @@
+tabula-py
+pandas
+black
+jpype1
+openpyxl
+jupyterlab

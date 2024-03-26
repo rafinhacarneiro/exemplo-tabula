@@ -1,0 +1,16 @@
+# ENV
+.venv/
+.vscode/
+env.yml
+files/
+
+# LOG
+*.json
+*.txt
+*.log
+
+# CACHE
+__pycache__/
+
+# EXCEÇÃO
+!requirements.txt
